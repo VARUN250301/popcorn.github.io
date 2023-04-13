@@ -1,6 +1,7 @@
 # popcorn.github.io
 This is a project for movie ticket booking. For watching the project in action:
 https://drive.google.com/file/d/1BVToUdpWs8wAVF1gvX5OOK6iKw75sTko/view?usp=share_link
+
 Features of this project:
 1. Home Page
 2. Trailers section
